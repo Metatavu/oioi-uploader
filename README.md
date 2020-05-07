@@ -5,6 +5,7 @@ Tool to upload large files to OiOi content mangement system.
 ## Installation
 
 Make sure you have installed NodeJS. [See instructions](https://nodejs.org/en/)
+
 Run command `npm install -g oioi-uploader`
 
 ## Configuration
