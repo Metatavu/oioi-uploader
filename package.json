@@ -10,6 +10,11 @@
     "oioi-uploader": "./index.js"
   },
   "author": "Heikki Kurhinen <heikki.kurhinen@metatavu.fi>",
+  "homepage": "https://github.com/Metatavu/oioi-uploader#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Metatavu/oioi-uploader"
+  },
   "license": "AGPL-3.0",
   "dependencies": {
     "aws-sdk": "^2.671.0",
