@@ -1,0 +1,24 @@
+{
+  "name": "oioi-uploader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "oioi-uploader": "./index.js"
+  },
+  "author": "Heikki Kurhinen <heikki.kurhinen@metatavu.fi>",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "aws-sdk": "^2.671.0",
+    "cli-progress": "^3.8.2",
+    "colors": "^1.4.0",
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.1.0",
+    "file-type": "^14.3.0",
+    "home-config": "^0.1.0",
+    "uuid": "^8.0.0"
+  }
+}
