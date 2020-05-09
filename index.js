@@ -91,7 +91,7 @@ const getExtensionFallback = (filename) => {
 }
 
 const size = fs.statSync(inputFilePath).size;
-const fileContent = fs.readFileSync(inputFilePath);
+const fileContent = fs.createReadStream(inputFilePath);
 const originalName = path.basename(inputFilePath);
 
 const bar = new cliProgress.SingleBar({
