@@ -22,7 +22,7 @@
     "colors": "^1.4.0",
     "command-line-args": "^5.1.1",
     "command-line-usage": "^6.1.0",
-    "file-type": "^14.3.0",
+    "file-type": "^16.5.4",
     "home-config": "^0.1.0",
     "uuid": "^8.0.0"
   }
